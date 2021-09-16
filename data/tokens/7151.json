@@ -1,0 +1,43 @@
+{
+  "name": "Groupie #7151",
+  "description": "A peaceful creature that will follow you on your adventures through this digital psychedelic experience!",
+  "image": "https://peacevoid.mypinata.cloud/ipfs/QmNyna7479pRGZC46KdtgEnptmGJ2MBdWFDrUZAWUb9gPM",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow Sunlight"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Amadou Hat"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "MoonTrek Red"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Silver Fleur"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Vitiligo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mouth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Glasses Lover"
+    },
+    {
+      "trait_type": "Strain",
+      "value": "Groupie"
+    },
+    {
+      "trait_type": "Head Space",
+      "value": "Grooving"
+    }
+  ]
+}

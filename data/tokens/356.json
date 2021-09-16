@@ -1,0 +1,43 @@
+{
+  "name": "Groupie #356",
+  "description": "A peaceful creature that will follow you on your adventures through this digital psychedelic experience!",
+  "image": "https://peacevoid.mypinata.cloud/ipfs/QmZf4sVtdwxUtDNP7KWDe5iyiR8VrG7sG2gN7eATj3sN8k",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Sunrise"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Joker Purple"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Arlequin Green"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Silver Melted Clock"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Sauvage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Glasses Rockstar"
+    },
+    {
+      "trait_type": "Strain",
+      "value": "Groupie"
+    },
+    {
+      "trait_type": "Head Space",
+      "value": "Grooving"
+    }
+  ]
+}

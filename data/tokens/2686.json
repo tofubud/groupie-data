@@ -1,0 +1,44 @@
+{
+  "name": "Groupie #2686",
+  "description": "A peaceful creature that will follow you on your adventures through this digital psychedelic experience!",
+  "image": "https://peacevoid.mypinata.cloud/ipfs/QmW4HcPW7bpXf2ume8XgmJNkhBCBrMFLaZw7bt1Wc6LmvV",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Psychedelic Fall"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Amadou Hat"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Heart Club Jacket Blue"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Gold Teeth"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Chocolate Stains"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Diastema"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "VR"
+    },
+    {
+      "trait_type": "Strain",
+      "value": "Groupie"
+    },
+    {
+      "trait_type": "Head Space",
+      "value": "Tripping"
+    }
+  ],
+  "animation_url": "https://peacevoid.mypinata.cloud/ipfs/QmW4HcPW7bpXf2ume8XgmJNkhBCBrMFLaZw7bt1Wc6LmvV"
+}

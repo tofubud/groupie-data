@@ -1,0 +1,43 @@
+{
+  "name": "Groupie #220",
+  "description": "A peaceful creature that will follow you on your adventures through this digital psychedelic experience!",
+  "image": "https://peacevoid.mypinata.cloud/ipfs/QmXPw9MQJUNLKacxUTVMLhEJrSo5erSvL51jT6oy4i6BkQ",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Indigo Afternoon"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Low Effort Pickle Jar"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sweater Grandma's Gift"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Silver Pi"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Lime"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Open Rainbow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Third Open"
+    },
+    {
+      "trait_type": "Strain",
+      "value": "Groupie"
+    },
+    {
+      "trait_type": "Head Space",
+      "value": "Grooving"
+    }
+  ]
+}

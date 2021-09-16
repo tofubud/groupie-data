@@ -1,0 +1,43 @@
+{
+  "name": "Groupie #440",
+  "description": "A peaceful creature that will follow you on your adventures through this digital psychedelic experience!",
+  "image": "https://peacevoid.mypinata.cloud/ipfs/QmRVLhe8RQ9gNtP4epnJWE8K6vdvEgm9owMzDC49TjC3wX",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow Sunlight"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Amadou Hat"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cardigan"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Gold Stoner Cat"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Sauvage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Troll"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "RGB"
+    },
+    {
+      "trait_type": "Strain",
+      "value": "Groupie"
+    },
+    {
+      "trait_type": "Head Space",
+      "value": "Grooving"
+    }
+  ]
+}

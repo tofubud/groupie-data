@@ -1,0 +1,43 @@
+{
+  "name": "Groupie #900",
+  "description": "A peaceful creature that will follow you on your adventures through this digital psychedelic experience!",
+  "image": "https://peacevoid.mypinata.cloud/ipfs/QmcfTUaB2phUaqAW8kE79QVW49ei1NY9QxymMyVWBTercD",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Indigo Afternoon"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Joker Pink"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sweater Wally"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Silver Grenade"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Hurt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tasty Feeling"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Red"
+    },
+    {
+      "trait_type": "Strain",
+      "value": "Groupie"
+    },
+    {
+      "trait_type": "Head Space",
+      "value": "Grooving"
+    }
+  ]
+}

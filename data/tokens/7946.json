@@ -1,0 +1,43 @@
+{
+  "name": "Groupie #7946",
+  "description": "A peaceful creature that will follow you on your adventures through this digital psychedelic experience!",
+  "image": "https://peacevoid.mypinata.cloud/ipfs/QmVE1Dhn5TJdBxYV7qU67Uze2fwGY9kppdp3D9YMSyirm2",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Afternoon"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Conspiracy Foil Hat"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sweater Krueger"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Silver Grenade"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Chocolate Stains"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Piano"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Weirdo Rainbow"
+    },
+    {
+      "trait_type": "Strain",
+      "value": "Groupie"
+    },
+    {
+      "trait_type": "Head Space",
+      "value": "Grooving"
+    }
+  ]
+}

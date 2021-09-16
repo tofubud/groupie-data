@@ -1,0 +1,43 @@
+{
+  "name": "Groupie #176",
+  "description": "A peaceful creature that will follow you on your adventures through this digital psychedelic experience!",
+  "image": "https://peacevoid.mypinata.cloud/ipfs/QmRcMXU8155RvSb2yfRazaTNrdrx9toXWknM8iKES5hi6D",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Morning"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Pothead Sativa"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Scarf Blue"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Gold Nacho"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Chocolate Stains"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Open Gold"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dumb"
+    },
+    {
+      "trait_type": "Strain",
+      "value": "Groupie"
+    },
+    {
+      "trait_type": "Head Space",
+      "value": "Grooving"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Groupie #7514",
+  "description": "A peaceful creature that will follow you on your adventures through this digital psychedelic experience!",
+  "image": "https://peacevoid.mypinata.cloud/ipfs/QmQqhqythkPxZ82BjCAx7gz1L8LyZCU1By8yApXmVVzDry",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange Sunshine"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie Hazard"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Gold Baby Hamster"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Old Dog"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "Strain",
+      "value": "Groupie"
+    },
+    {
+      "trait_type": "Head Space",
+      "value": "Grooving"
+    }
+  ]
+}

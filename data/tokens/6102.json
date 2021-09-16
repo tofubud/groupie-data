@@ -1,0 +1,43 @@
+{
+  "name": "Groupie #6102",
+  "description": "A peaceful creature that will follow you on your adventures through this digital psychedelic experience!",
+  "image": "https://peacevoid.mypinata.cloud/ipfs/QmSFdEx26pHXbvjkm5mEsGjWoc4rw2yM8qwtnxA6T6xWPF",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Morning"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Joker Pink"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sweater Grandma's Gift"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Silver Record"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Hurt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Chocolate Stains"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mesmerized Yellow"
+    },
+    {
+      "trait_type": "Strain",
+      "value": "Groupie"
+    },
+    {
+      "trait_type": "Head Space",
+      "value": "Grooving"
+    }
+  ]
+}

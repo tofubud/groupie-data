@@ -1,0 +1,43 @@
+{
+  "name": "Groupie #305",
+  "description": "A peaceful creature that will follow you on your adventures through this digital psychedelic experience!",
+  "image": "https://peacevoid.mypinata.cloud/ipfs/QmRCr9t1keD2H8JFSi4GCWDmAmGmUXxDsiRhcvRm56tbEW",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Sunrise"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cap VIP Red"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Scarf Pink"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Silver Bulb"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Starish"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Troll"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Glasses Rockstar"
+    },
+    {
+      "trait_type": "Strain",
+      "value": "Groupie"
+    },
+    {
+      "trait_type": "Head Space",
+      "value": "Grooving"
+    }
+  ]
+}

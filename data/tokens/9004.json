@@ -1,0 +1,43 @@
+{
+  "name": "Groupie #9004",
+  "description": "A peaceful creature that will follow you on your adventures through this digital psychedelic experience!",
+  "image": "https://peacevoid.mypinata.cloud/ipfs/QmacXkMsvYPo1k6Cde1goNRxg4Fd2afKnr4kxTk6238F8s",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple Storm"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cap Baby"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Melted Rainbow Jacket"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Silver Duck You"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pale Boy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Relaxed"
+    },
+    {
+      "trait_type": "Strain",
+      "value": "Groupie"
+    },
+    {
+      "trait_type": "Head Space",
+      "value": "Grooving"
+    }
+  ]
+}

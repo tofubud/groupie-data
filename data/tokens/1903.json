@@ -1,0 +1,44 @@
+{
+  "name": "Groupie #1903",
+  "description": "A peaceful creature that will follow you on your adventures through this digital psychedelic experience!",
+  "image": "https://peacevoid.mypinata.cloud/ipfs/QmQdM19maPJ9T9dTJpWNahP3DLxqNPX7rbJGtcfcdyPzGX",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Psychedelic Fall"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cap Classic Purple"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cosmic Cloak"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Silver Pill"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Old Dog"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fleur"
+    },
+    {
+      "trait_type": "Strain",
+      "value": "Groupie"
+    },
+    {
+      "trait_type": "Head Space",
+      "value": "Tripping"
+    }
+  ],
+  "animation_url": "https://peacevoid.mypinata.cloud/ipfs/QmQdM19maPJ9T9dTJpWNahP3DLxqNPX7rbJGtcfcdyPzGX"
+}

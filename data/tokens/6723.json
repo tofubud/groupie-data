@@ -1,0 +1,39 @@
+{
+  "name": "Groupie #6723",
+  "description": "A peaceful creature that will follow you on your adventures through this digital psychedelic experience!",
+  "image": "https://peacevoid.mypinata.cloud/ipfs/QmX6ftukbTznRJQUiP7ciB65GazYBLAGBtT3eB9LHHEbkV",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Indigo Afternoon"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie Hazard"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Gold Blockchain"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Vitiligo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Open Gold"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fleur"
+    },
+    {
+      "trait_type": "Strain",
+      "value": "Groupie"
+    },
+    {
+      "trait_type": "Head Space",
+      "value": "Grooving"
+    }
+  ]
+}

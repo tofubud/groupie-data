@@ -1,0 +1,43 @@
+{
+  "name": "Groupie #306",
+  "description": "A peaceful creature that will follow you on your adventures through this digital psychedelic experience!",
+  "image": "https://peacevoid.mypinata.cloud/ipfs/QmZGKi6e1yN4SpWALfmEvcBp6pteoWCcBYDfp5uSjBJx8S",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Afternoon"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie Hazard"
+    },
+    {
+      "trait_type": "Head Attachment",
+      "value": "Lightning Bolt"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Silver Yin Yang"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dizzy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Old Dog"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stoned"
+    },
+    {
+      "trait_type": "Strain",
+      "value": "Groupie"
+    },
+    {
+      "trait_type": "Head Space",
+      "value": "Grooving"
+    }
+  ]
+}

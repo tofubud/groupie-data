@@ -1,0 +1,44 @@
+{
+  "name": "Groupie #3257",
+  "description": "A peaceful creature that will follow you on your adventures through this digital psychedelic experience!",
+  "image": "https://peacevoid.mypinata.cloud/ipfs/QmeXhJ4pZyUaaiteo3WuMhJGYxhtFD2gvD3k8gbQ7BFhZy",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Doodle Street"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Nester Hat"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sweater Patched"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Silver Duck You"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Troll"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fleur"
+    },
+    {
+      "trait_type": "Strain",
+      "value": "Groupie"
+    },
+    {
+      "trait_type": "Head Space",
+      "value": "Tripping"
+    }
+  ],
+  "animation_url": "https://peacevoid.mypinata.cloud/ipfs/QmeXhJ4pZyUaaiteo3WuMhJGYxhtFD2gvD3k8gbQ7BFhZy"
+}

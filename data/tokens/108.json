@@ -1,0 +1,43 @@
+{
+  "name": "Groupie #108",
+  "description": "A peaceful creature that will follow you on your adventures through this digital psychedelic experience!",
+  "image": "https://peacevoid.mypinata.cloud/ipfs/QmUCUwXoBittZhgDNJgi3LSg6iBPBwi315mE6az7KYWpFn",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Afternoon"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "San Pedro"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cosmic Cloak"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Gold Hotdog"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dizzy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Troll"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mesmerized Purple"
+    },
+    {
+      "trait_type": "Strain",
+      "value": "Groupie"
+    },
+    {
+      "trait_type": "Head Space",
+      "value": "Grooving"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Groupie #9564",
+  "description": "A peaceful creature that will follow you on your adventures through this digital psychedelic experience!",
+  "image": "https://peacevoid.mypinata.cloud/ipfs/QmWAxcmRPJzgszABPNHsttxgsTHj6c6TMeSKe1De2hBvJy",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Sunrise"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Continental Breakfast"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Scarf Blue"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Gold Groupie"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pale Boy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grass Eater"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Weirdo Red"
+    },
+    {
+      "trait_type": "Strain",
+      "value": "Groupie"
+    },
+    {
+      "trait_type": "Head Space",
+      "value": "Grooving"
+    }
+  ]
+}

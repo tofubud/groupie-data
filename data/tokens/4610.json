@@ -1,0 +1,44 @@
+{
+  "name": "Groupie #4610",
+  "description": "A peaceful creature that will follow you on your adventures through this digital psychedelic experience!",
+  "image": "https://peacevoid.mypinata.cloud/ipfs/Qmd1W7wte9SoVhnZUp7Kr2R8bnxowEvngoWwfhrzHAeA8y",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Inside Your Head"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Poo-Plush Hat"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "MoonTrek Blue"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Gold Hotdog"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dizzy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Trap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Strain",
+      "value": "Groupie"
+    },
+    {
+      "trait_type": "Head Space",
+      "value": "Tripping"
+    }
+  ],
+  "animation_url": "https://peacevoid.mypinata.cloud/ipfs/Qmd1W7wte9SoVhnZUp7Kr2R8bnxowEvngoWwfhrzHAeA8y"
+}

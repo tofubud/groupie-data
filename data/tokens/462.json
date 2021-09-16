@@ -1,0 +1,44 @@
+{
+  "name": "Groupie #462",
+  "description": "A peaceful creature that will follow you on your adventures through this digital psychedelic experience!",
+  "image": "https://peacevoid.mypinata.cloud/ipfs/QmQqz8vAnBZEAJiWDFiMbp4UNrXFzf4z9D2punuagREB2E",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Inside Your Head"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Joker Purple"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Slimed Acid"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Gold Blockchain"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dizzy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Diastema"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mesmerized Yellow"
+    },
+    {
+      "trait_type": "Strain",
+      "value": "Groupie"
+    },
+    {
+      "trait_type": "Head Space",
+      "value": "Tripping"
+    }
+  ],
+  "animation_url": "https://peacevoid.mypinata.cloud/ipfs/QmQqz8vAnBZEAJiWDFiMbp4UNrXFzf4z9D2punuagREB2E"
+}

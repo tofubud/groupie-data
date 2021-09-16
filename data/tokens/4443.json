@@ -1,0 +1,43 @@
+{
+  "name": "Groupie #4443",
+  "description": "A peaceful creature that will follow you on your adventures through this digital psychedelic experience!",
+  "image": "https://peacevoid.mypinata.cloud/ipfs/QmQt736m7QmAGKMj3zUiLe9eZuDmT4fqDEFx4iqgwkRW3J",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple Storm"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Low Effort Pickle Jar"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sweater Patched"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Gold Sock"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Starish"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fleur"
+    },
+    {
+      "trait_type": "Strain",
+      "value": "Groupie"
+    },
+    {
+      "trait_type": "Head Space",
+      "value": "Grooving"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Groupie #8856",
+  "description": "A peaceful creature that will follow you on your adventures through this digital psychedelic experience!",
+  "image": "https://peacevoid.mypinata.cloud/ipfs/QmdfuKsH7i6USEbo7JDEjjF4DBnEWfsUkj2oe3ytmw5kwX",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Afternoon"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cap Classic Purple"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sparkling Jacket Green"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Silver Record"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dizzy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Piano Golden Key"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mesmerized Purple"
+    },
+    {
+      "trait_type": "Strain",
+      "value": "Groupie"
+    },
+    {
+      "trait_type": "Head Space",
+      "value": "Grooving"
+    }
+  ]
+}

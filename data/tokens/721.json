@@ -1,0 +1,43 @@
+{
+  "name": "Groupie #721",
+  "description": "A peaceful creature that will follow you on your adventures through this digital psychedelic experience!",
+  "image": "https://peacevoid.mypinata.cloud/ipfs/QmXoNdSTny9odwbSFZjqRMtNLwWpQCx3B14ST63geKJgcY",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink Noon"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Game Hat"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Scarf Blue"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Silver Melted Clock"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Bleeding"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Old Dog"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Red"
+    },
+    {
+      "trait_type": "Strain",
+      "value": "Groupie"
+    },
+    {
+      "trait_type": "Head Space",
+      "value": "Grooving"
+    }
+  ]
+}

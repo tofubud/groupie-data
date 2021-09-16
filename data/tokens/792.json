@@ -1,0 +1,43 @@
+{
+  "name": "Groupie #792",
+  "description": "A peaceful creature that will follow you on your adventures through this digital psychedelic experience!",
+  "image": "https://peacevoid.mypinata.cloud/ipfs/QmSYFqes4amRkD4XMdsH6U7eRuc5THa4wu4hVpSQ8WNPjd",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink Noon"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "San Pedro"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Heart Club Jacket Blue"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Gold Hotdog"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Chocolate Stains"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Open Rainbow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "VR"
+    },
+    {
+      "trait_type": "Strain",
+      "value": "Groupie"
+    },
+    {
+      "trait_type": "Head Space",
+      "value": "Grooving"
+    }
+  ]
+}

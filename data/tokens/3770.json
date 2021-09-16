@@ -1,0 +1,43 @@
+{
+  "name": "Groupie #3770",
+  "description": "A peaceful creature that will follow you on your adventures through this digital psychedelic experience!",
+  "image": "https://peacevoid.mypinata.cloud/ipfs/QmaPYSLbysLEh3JPRqMkVU1mps3pUMJwFwkYQBpYDHd6xv",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Afternoon"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cap Baby"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Arlequin Pink"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Gold Hotdog"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dizzy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Open Rainbow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "In Trance"
+    },
+    {
+      "trait_type": "Strain",
+      "value": "Groupie"
+    },
+    {
+      "trait_type": "Head Space",
+      "value": "Grooving"
+    }
+  ]
+}

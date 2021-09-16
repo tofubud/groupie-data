@@ -1,0 +1,44 @@
+{
+  "name": "Groupie #8087",
+  "description": "A peaceful creature that will follow you on your adventures through this digital psychedelic experience!",
+  "image": "https://peacevoid.mypinata.cloud/ipfs/QmPrHYBe2qVG516YChxWk2xykwRnmqbULLec9XSLrauwND",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Inside Your Head"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bonsai"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Arlequin Green"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Silver Pill"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Starish"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Open Gold"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "VR"
+    },
+    {
+      "trait_type": "Strain",
+      "value": "Groupie"
+    },
+    {
+      "trait_type": "Head Space",
+      "value": "Tripping"
+    }
+  ],
+  "animation_url": "https://peacevoid.mypinata.cloud/ipfs/QmPrHYBe2qVG516YChxWk2xykwRnmqbULLec9XSLrauwND"
+}

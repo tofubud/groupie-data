@@ -1,0 +1,43 @@
+{
+  "name": "Groupie #438",
+  "description": "A peaceful creature that will follow you on your adventures through this digital psychedelic experience!",
+  "image": "https://peacevoid.mypinata.cloud/ipfs/QmXMQs6z6iGmUBoNPbQNURZEXDM9C72Dwdjs4nRYDypK2F",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange Sunshine"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cap Classic Purple"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Scarf Red"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Silver Melted Clock"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Lime"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Glasses Rockstar"
+    },
+    {
+      "trait_type": "Strain",
+      "value": "Groupie"
+    },
+    {
+      "trait_type": "Head Space",
+      "value": "Grooving"
+    }
+  ]
+}

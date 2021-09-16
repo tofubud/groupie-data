@@ -1,0 +1,44 @@
+{
+  "name": "Groupie #1173",
+  "description": "A peaceful creature that will follow you on your adventures through this digital psychedelic experience!",
+  "image": "https://peacevoid.mypinata.cloud/ipfs/QmNWBTZNRURAiE3XfxZ9YqacQGxgcu4frgwdF6cgHX48Ns",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Doodle Street"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Continental Breakfast"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Rainbow Vortex Shirt"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Silver Papier"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Trap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dumb"
+    },
+    {
+      "trait_type": "Strain",
+      "value": "Groupie"
+    },
+    {
+      "trait_type": "Head Space",
+      "value": "Tripping"
+    }
+  ],
+  "animation_url": "https://peacevoid.mypinata.cloud/ipfs/QmNWBTZNRURAiE3XfxZ9YqacQGxgcu4frgwdF6cgHX48Ns"
+}

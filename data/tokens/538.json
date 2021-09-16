@@ -1,0 +1,43 @@
+{
+  "name": "Groupie #538",
+  "description": "A peaceful creature that will follow you on your adventures through this digital psychedelic experience!",
+  "image": "https://peacevoid.mypinata.cloud/ipfs/QmPqd5L8yJeyQAjpkHeViv95VDH6NgiBjv4zT2JTEQejfM",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange Sunshine"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Pretty Boy Fishbowl"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Arlequin Green"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Gold Sock"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Lime"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mouth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Patched"
+    },
+    {
+      "trait_type": "Strain",
+      "value": "Groupie"
+    },
+    {
+      "trait_type": "Head Space",
+      "value": "Grooving"
+    }
+  ]
+}

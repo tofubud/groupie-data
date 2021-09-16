@@ -1,0 +1,43 @@
+{
+  "name": "Groupie #2213",
+  "description": "A peaceful creature that will follow you on your adventures through this digital psychedelic experience!",
+  "image": "https://peacevoid.mypinata.cloud/ipfs/QmTcMXwEqNRwuLRrH534DZFVuTiw7BqtjARmz6CawkWMVy",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink Noon"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Joker Purple"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Slimed Honey"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Silver Pill"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mouth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "Strain",
+      "value": "Groupie"
+    },
+    {
+      "trait_type": "Head Space",
+      "value": "Grooving"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Groupie #1502",
+  "description": "A peaceful creature that will follow you on your adventures through this digital psychedelic experience!",
+  "image": "https://peacevoid.mypinata.cloud/ipfs/QmUPnvmYFgtjPTL8DaSBWqkpShVi1CnnwBLeRy3sGfCUeF",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow Sunlight"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Nester Hat"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sweater Everest"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Silver Fleur"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Sauvage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vamp"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mesmerized Purple"
+    },
+    {
+      "trait_type": "Strain",
+      "value": "Groupie"
+    },
+    {
+      "trait_type": "Head Space",
+      "value": "Grooving"
+    }
+  ]
+}

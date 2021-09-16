@@ -1,0 +1,43 @@
+{
+  "name": "Groupie #3945",
+  "description": "A peaceful creature that will follow you on your adventures through this digital psychedelic experience!",
+  "image": "https://peacevoid.mypinata.cloud/ipfs/QmZRrxjZywRJPtZ9hKhVZku89n3udA6eBhpGPHmypHKnQL",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange Sunshine"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Nefertiti Crown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Yellow Vest"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Gold Nacho"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Vitiligo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Diastema"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "VR Squiggle"
+    },
+    {
+      "trait_type": "Strain",
+      "value": "Groupie"
+    },
+    {
+      "trait_type": "Head Space",
+      "value": "Grooving"
+    }
+  ]
+}

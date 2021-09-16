@@ -1,0 +1,44 @@
+{
+  "name": "Groupie #226",
+  "description": "A peaceful creature that will follow you on your adventures through this digital psychedelic experience!",
+  "image": "https://peacevoid.mypinata.cloud/ipfs/QmdW2sxETgnaFpPR3wNmfmCb2c5wSL2ok6h5pXVAiSnzz7",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Museum of Crypto Art"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Amadou Hat"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Scarf Red"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Silver Eye"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Lime"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tasty Feeling"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Glasses Rockstar"
+    },
+    {
+      "trait_type": "Strain",
+      "value": "Groupie"
+    },
+    {
+      "trait_type": "Head Space",
+      "value": "Tripping"
+    }
+  ],
+  "animation_url": "https://peacevoid.mypinata.cloud/ipfs/QmdW2sxETgnaFpPR3wNmfmCb2c5wSL2ok6h5pXVAiSnzz7"
+}

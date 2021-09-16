@@ -1,0 +1,44 @@
+{
+  "name": "Groupie #7283",
+  "description": "A peaceful creature that will follow you on your adventures through this digital psychedelic experience!",
+  "image": "https://peacevoid.mypinata.cloud/ipfs/QmSKTyXZT6uR4y7H7Gmpzc91qPKHgtc5BEa6HAGFLVkqR7",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Museum of Crypto Art"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Colonel Peace"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sweater Wally"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Silver Record"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Starish"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Diastema"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sauvage"
+    },
+    {
+      "trait_type": "Strain",
+      "value": "Groupie"
+    },
+    {
+      "trait_type": "Head Space",
+      "value": "Tripping"
+    }
+  ],
+  "animation_url": "https://peacevoid.mypinata.cloud/ipfs/QmSKTyXZT6uR4y7H7Gmpzc91qPKHgtc5BEa6HAGFLVkqR7"
+}
